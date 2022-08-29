@@ -10,7 +10,10 @@
 int main()
     {
     printf("Priyankka Nanrudaiyan!!\n");
-    printf("Electrical Engineering\n");
+    printf("Electrical Engineering\n\n");
+
+    printf("Sandesh Subedi\n");
+    printf("Computer Science\n");
 
     return 0;
     }
